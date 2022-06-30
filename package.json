@@ -2,7 +2,7 @@
   "name": "dom-accessibility-api-umd",
   "version": "0.0.0",
   "description": "UMD builder for the dom-accessibility-api module",
-  "main": "index.js",
+  "main": "dist/dom-accessibility-api.js",
   "scripts": {
     "build": "rollup --config rollup.config.js",
     "pretty": "prettier --write ."
